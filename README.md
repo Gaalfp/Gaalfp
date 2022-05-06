@@ -1,2 +1,2 @@
 - 👋 Olá,Sou o @Gaalfp
-- Códigos de um programador e estagiário inciante
+- Códigos de um estagiário e programador iniciante
